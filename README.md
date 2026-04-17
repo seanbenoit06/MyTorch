@@ -1,3 +1,3 @@
 # MyTorch
-Basic C++ tensor library built from scratch
+(In the works) Basic C++ tensor library built from scratch
 Currently in the works... stay tuned
